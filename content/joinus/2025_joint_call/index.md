@@ -20,4 +20,4 @@ PIs: Marin Bukov (MPI PKS, Dresden), Markus Schmitt (Regensburg University)
 * Optimal readout of quantum simulators [experiment]
 PIs: Monika Aidelsburger (MPQ, Garching)
 
-To make one of these your PhD project, send your CV and a motivation letter to applications@mlcqs.info. Applications will be reviewed starting DEADLINE.
+To make one of these your PhD project, send your CV and a motivation letter to EMAIL-ADRESS. Applications will be reviewed starting DEADLINE.
