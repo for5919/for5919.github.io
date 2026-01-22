@@ -1,0 +1,9 @@
+{{ $authors := where .Site.RegularPages "Section" "authors" }}
+{{ $team := where .Site.RegularPages "Section" "team" }}
+{{ $allMembers := $authors }}
+
+<div class="card-view">
+  {{ range $allMembers.ByTitle }}
+    {{ partial "article-link/card.html" . }}
+  {{ end }}
+</div>
