@@ -3,5 +3,6 @@ title: "Impressum"
 draft: false
 showPagination: false
 showDate: false
+type: "impressum"
 ---
-Dummy page for impressum.
+Test text

@@ -2,6 +2,9 @@
 title: "Marin Bukov"
 showDate: false
 showReadingTime: false
+showAuthors: true
+authors:
+  - "bukov"
 weight: 3
 homepage: https://www.pks.mpg.de/nqd
 ---

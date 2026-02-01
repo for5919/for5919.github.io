@@ -12,7 +12,7 @@
 
 [[main]]
   name = "News"
-  pageRef = "posts"
+  pageRef = "news"
   weight = 1
 
 [[main]]
@@ -26,9 +26,14 @@
   weight = 3
 
 [[main]]
+  name = "Events"
+  pageRef = "upcoming_events"
+  weight = 4
+
+[[main]]
   name = "Join us"
   pageRef = "joinus"
-  weight = 4
+  weight = 5
 
 #[[main]]
 #  name = "Parent"
@@ -75,7 +80,7 @@
 
 [[footer]]
   name = "Impressum"
-  pageRef = "/impressum/"
+  pageRef = "legal"
   weight = 10
 
 # [[footer]]

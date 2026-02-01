@@ -1,3 +1,9 @@
+########### LEGAL
+[legal]
+  author = "Markus Schmitt"
+  address = "Fakultät für Informatik und Data Science<br>"
+  email = "Zm9yNTkxOUB1ci5kZQ=="
+
 # -- Theme Options --
 # These options control how the theme functions and allow you to
 # customise the display of your website.
@@ -17,7 +23,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
-mainSections = ["posts"]
+mainSections = ["news"]
 # robots = ""
 
 disableImageOptimization = false
@@ -53,10 +59,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/hero.png" # used in: hero, and card
+  mainSections = ["news"]
   showRecent = true
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts/"
+  showRecentItems = 3
+  showMoreLink = true
+  showMoreLinkDest = "/news/"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
