@@ -50,6 +50,9 @@
         {{ partial "series/series.html" . }}
         <div class="article-content max-w-prose mb-20">
           {{ .Content }}
+          {{ if .Params.contactEmail }}
+            <p>Contact: {{ partial "obfuscate.html" (dict "email" .Params.contactEmail ) }}</p>
+          {{ end }}
           {{ $defaultReplyByEmail := site.Params.replyByEmail }}
           {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
           {{ if $replyByEmail }}
@@ -71,6 +74,7 @@
         {{ partial "related.html" . }}
       </div>
 
+
       {{ $translations := .AllTranslations }}
       {{ with .File }}
         {{ $path := .Path }}
@@ -88,6 +92,7 @@
           data-oid-likes="likes_{{ $path }}"></script>
       {{ end }}
     </section>
+
 
     {{/* Footer */}}
     <footer class="pt-8 max-w-prose print:hidden">

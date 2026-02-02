@@ -80,7 +80,7 @@
 
 [[footer]]
   name = "Impressum"
-  pageRef = "legal"
+  pageRef = "impressum"
   weight = 10
 
 # [[footer]]
