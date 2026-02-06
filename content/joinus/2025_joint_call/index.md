@@ -3,7 +3,7 @@ title: "Multiple PhD positions available: call for applications"
 date: 2026-01-19T12:00:00
 contactEmail: "Zm9yNTkxOUB1ci5kZQ=="
 ---
-Our recently established collaborative research initiative “Machine Learning for Complex Quantum States” (MLCQS) – a consortium spanning nine different institutions across Germany and Switzerland – is seeking to fill several PhD positions.
+Our recently established collaborative research initiative “Machine Learning for Complex Quantum States” (MLCQS) – a consortium spanning eleven different institutions across Germany and Switzerland – is seeking to fill several PhD positions.
 
 <!--more-->
 
