@@ -15,7 +15,7 @@ date: 2026-06-15T06:45:00
 ## Application Details
 *   **Deadline:** September 30, 2026
 *   **Registration Fee:** Free, but approval is required.
-*   **Website & Application:** [https://for5919.github.io/](https://for5919.github.io/)
+*   **Website & Application:** [https://indico.mlcqs.de/event/1/](https://indico.mlcqs.de/event/1/)
 *   **Contact:** For inquiries, contact Ms. Julia Stier at julia.stier@verwaltung.uni-regensburg.de
 
 ## Accommodation
