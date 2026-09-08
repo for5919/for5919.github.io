@@ -1,9 +1,17 @@
-{{ $authors := where .Site.RegularPages "Section" "authors" }}
 {{ $team := where .Site.RegularPages "Section" "team" }}
-{{ $allMembers := $authors }}
+{{ $pis     := where $team "Params.role" "PI" }}
+{{ $members := where $team "Params.role" "member" }}
 
+<h2>Project leaders</h2>
 <div class="card-view">
-  {{ range $allMembers.ByTitle }}
+  {{ range $pis.ByTitle }}
+    {{ partial "article-link/card.html" . }}
+  {{ end }}
+</div>
+
+<h2>Members</h2>
+<div class="card-view">
+  {{ range $members.ByTitle }}
     {{ partial "article-link/card.html" . }}
   {{ end }}
 </div>

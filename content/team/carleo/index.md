@@ -6,5 +6,6 @@ showAuthors: true
 authors:
   - "carleo"
 weight: 4
+role: "PI"
 ---
 Giuseppe Carleo is a professor of computational quantum physics at EPFL, where he leads the Computational Quantum Science Laboratory (CQSL). His research develops principled numerical and machine-learning methods to study strongly correlated quantum systems, spanning equilibrium, non-equilibrium dynamics, and quantum simulation. 

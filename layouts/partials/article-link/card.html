@@ -57,7 +57,6 @@
 <article
   class="relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   {{ with $featuredURL }}
-    <!-- <div class="flex-none relative overflow-hidden thumbnail_card"> -->
     <div class="flex-none relative overflow-hidden thumbnail_card">
       <figure>
       <img
@@ -66,8 +65,11 @@
         loading="lazy"
         decoding="async"
         class="not-prose absolute inset-0 w-full h-full object-cover">
-        <figcaption>copyright</figcaption>
       </figure>
+      {{ with $page.Params.copyright }}
+        <span class="absolute z-10 rounded px-1 text-xs text-white"
+          style="bottom:4px;right:4px;background:rgba(0,0,0,0.45)">© {{ . }}</span>
+      {{ end }}
     </div>
   {{ end }}
   {{ if and .Draft .Site.Params.article.showDraftLabel }}
