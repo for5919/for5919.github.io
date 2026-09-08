@@ -26,14 +26,19 @@
   weight = 3
 
 [[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 4
+
+[[main]]
   name = "Events"
   pageRef = "upcoming_events"
-  weight = 4
+  weight = 5
 
 [[main]]
   name = "Join us"
   pageRef = "joinus"
-  weight = 5
+  weight = 6
 
 #[[main]]
 #  name = "Parent"

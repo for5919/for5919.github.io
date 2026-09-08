@@ -2,6 +2,7 @@
 title: "June 2026: Kick-off meeting"
 showDate: false
 date: 2026-01-28T09:45:00
+copyright: "AI-generated"
 ---
 On June 15/16, 2026, we will hold our kick-off meeting. 
 
