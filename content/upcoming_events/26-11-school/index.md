@@ -73,13 +73,13 @@ In the week of **29 November – 4 December 2026** we are going to hold the 1st 
 
 ***Joint track: research talks***
 
-9:00am – 9:45am: *Julius Tirpitz:* Neural-quantum-state-based downfolding of the three-band Emery model for cuprates and nickelates
+9:00am – 9:40am: *Julius Tirpitz:* Neural-quantum-state-based downfolding of the three-band Emery model for cuprates and nickelates
 
-9:45am – 10:30am: *Marc Machaczek:* Dynamical structure factors of the 2D Heisenberg model with neural quantum states
+9:45am – 10:25am: *Marc Machaczek:* Dynamical structure factors of the 2D Heisenberg model with neural quantum states
 
-11:00am – 11:45am: *Giovanni Cemin:* Learning to stabilize nonequilibrium phases of matter with active feedback using partial information
+11:00am – 11:40am: *Giovanni Cemin:* Learning to stabilize nonequilibrium phases of matter with active feedback using partial information
 
-11:45am – 12:30pm: *Maximilian Naegele:* Agentic Exploration of Physics Models
+11:45am – 12:25pm: *Maximilian Naegele:* Agentic Exploration of Physics Models
 
 12:30pm – 2:00pm: lunch + departure
 
