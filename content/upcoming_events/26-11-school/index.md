@@ -13,6 +13,8 @@ In the week of **29 November – 4 December 2026** we are going to hold the 1st 
 
 ## Program
 
+**IMPORTANT:** BRING your LAPTOP (and chargers) to the school!
+
 **Mon (Nov 30):**
 
 1:45 – 2:00pm: intro, *Marin Bukov*
