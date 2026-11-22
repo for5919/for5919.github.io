@@ -7,7 +7,91 @@ copyright: "AI-generated"
 
 In the week of **29 November – 4 December 2026** we are going to hold the 1st Winter School for PhD and Master Students at the [Max Planck Institute for the Science of Light, Erlangen](https://mpl.mpg.de/about-us/unique-to-mpl).
 
+***NOTE:*** there will be **NO** poster session as part of the school, i.e., you do *NOT* need to present any posters. 
+
 <!--more-->
+
+## Program
+
+**Mon (Nov 30):**
+
+1:45 – 2:00pm: intro, *Marin Bukov*
+
+***Joint track:***
+
+2:00pm – 6:00pm: *Maximilian Naegele:* Introduction to Deep Learning in JAX
+
+
+**Tue (Dec 1):**
+
+***NQS Track:***
+
+9:00am – 12:30pm: *Annabelle Bohrdt:* intro to neural quantum states
+
+2:00pm – 5:30pm: *Julius Tirpitz:* hands-on tutorial
+
+***RL Track:***
+
+9:00am – 12:30pm: *Marin Bukov:* introduction to RL 
+
+2:00pm – 5:30pm: *Giovanni Cemin:* hands-on tutorial
+
+
+**Wed (Dec 2):**
+
+***NQS Track:***
+
+9:00am – 12:30pm: *Annabelle Bohrdt:* fermionic NQS
+
+2:00pm – 5:30pm: *Julius Tirpitz:* hands-on tutorial
+
+***RL Track:***
+
+9:00am – 12:30pm: *Marin Bukov:* RL for quantum control
+
+2:00pm – 5:30pm: *Giovanni Cemin:* hands-on tutorial
+
+
+**Thu (Dec 3):**
+
+***NQS Track:***
+
+9:00am – 12:30pm: *Markus Heyl:* Solving Quantum Dynamics with Neural Quantum States
+
+2:00pm – 5:30pm: *Marc Machaczek:* hands-on tutorial
+
+***RL Track:***
+
+9:00am – 12:30pm: *Florian Marquardt:* RL for quantum error correction
+
+2:00pm – 5:30pm: *Maximilian Naegele:* hands-on tutorial
+
+
+**Fri (Dec 4):**
+
+***Joint track: research talks***
+
+9:00am – 9:45am: *Julius Tirpitz:* Neural-quantum-state-based downfolding of the three-band Emery model for cuprates and nickelates
+
+9:45am – 10:30am: *Marc Machaczek:* Dynamical structure factors of the 2D Heisenberg model with neural quantum states
+
+11:00am – 11:45am: *Giovanni Cemin:* Learning to stabilize nonequilibrium phases of matter with active feedback using partial information
+
+11:45am – 12:30pm: *Maximilian Naegele:* Agentic Exploration of Physics Models
+
+12:30pm – 2:00pm: lunch + departure
+
+
+**Breaks:**
+
+10:30am - 11:00am: coffee break (Dec 1-4)
+
+12:30pm – 2:00pm: lunch break (Dec 1-4)
+
+4:00pm - 4:30pm: coffee break (Nov 30, Dec 1-3)
+
+
+
 
 ## Application Details
 *   **Deadline:** September 30, 2026
