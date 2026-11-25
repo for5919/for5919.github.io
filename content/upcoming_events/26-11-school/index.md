@@ -66,7 +66,7 @@ In the week of **29 November – 4 December 2026** we are going to hold the 1st 
 
 9:00am – 12:30pm: *Florian Marquardt:* RL for quantum error correction
 
-2:00pm – 5:30pm: *Maximilian Naegele:* hands-on tutorial
+2:00pm – 5:30pm: *Aritra Lahiri:* hands-on tutorial
 
 
 **Fri (Dec 4):**
